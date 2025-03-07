@@ -1,5 +1,8 @@
 # Google Buildings Footprint Processor
 
+## Important
+This Program is not supported anymore, and combined with Microsoft Building footprint extraction program on the followiong git site: https://github.com/AsafBSh/Buildings_Footprint_Extractor
+
 ## Overview
 
 This tool processes Google's building footprint data, allowing users to filter and extract building polygons from large CSV files or pre-divided geographical chunks. It supports operations such as dividing large datasets into manageable chunks and filtering buildings within specified geographical boundaries. 
